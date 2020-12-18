@@ -1,6 +1,8 @@
 # Face Mask Detection
 Detect face with and without a facemask. CNN model created build with TensorFlow and Keras, camera and face detection with OpenCV.
 
+A detailed description of the project can be found at the Jupyter notebook `informe.ipynb`.
+
 ## Run
 Requirements:
 * python-opencv
