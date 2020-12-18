@@ -36,10 +36,10 @@ Parameters:
 * epochs: 10
 * Image sizes: Resized to 50x50
 * Training data: 10 000 images
-* Test data: 10 000 images
+* Test data: 992 images
 
 #### Validation metrics
-The model was validated with 10 000 images in the dataset and the metrics were obtained with `sklearn.metrics.classification_report`.
+The model was validated with 800 images in the dataset and the metrics were obtained with `sklearn.metrics.classification_report`.
 
 ```
               precision    recall  f1-score   support
