@@ -71,7 +71,7 @@ class CNN():
 
     print("[DONE] Build model")
 
-  def fit(self, epochs, model_exportfile, metric_exportimg, test_size=0.2, verbose=1):
+  def fit(self, epochs, model_exportfile, metric_exportimg, verbose=1):
     print("[IN PROGRESS] Fitting model")
 
     print("[IN PROGRESS] Actually fitting model")
